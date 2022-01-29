@@ -1,5 +1,5 @@
 import { Toaster } from "react-hot-toast";
-import MetaMaskAccountProvider from "../components/meta-mask-account-provider";
+import MetaMaskAccountProvider from "../components/meta-mast-account-provider";
 import "../styles/globals.css";
 
 function MyApp({ Component, pageProps }) {
